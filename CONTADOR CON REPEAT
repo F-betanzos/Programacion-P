@@ -1,0 +1,14 @@
+CONTADOR CON REPEAT
+// contador del 1 al 100//
+
+main()
+{
+    i = 1;  //Inicializando una variable con un valor//
+    x = i;
+    REPEAT 
+    {
+        printf (x);
+        x++;
+    } unitil (x = 101);
+    printf("adios");
+}
