@@ -1,23 +1,23 @@
-# incluye <stdio.h>
-int   main ()
+#include <stdio.h>
+int main () 
 {
-     / * Gonzalez Betanzos Fabiola
-    Equipo 1
-    21 abr 21
-    Programa 4 . Pide dos valores reales, calcula multiplica, divide y muestra resultado
-    * /
+     /* Gonzalez Betanzos Fabiola
+    Equipo "Alfa Buena Maravilla Onda Dinamita Escuadron Lobo"
+    23 abr 21
+    Programa 4. Pide dos valores reales y calcula multiplica despues divide y muestra el resultado
+    */
 
-   cebador flotante, segundo, multiplica, división;
-    printf ( "  \ n \ n Programa 3 " );
-    printf ( "  \ n \ n Saca el promedio de valores reales " );
-    printf ( "  \ n \ n Dame el primer valor real " );
-    scanf ( "  % f  " , & cebador); // Permite capturar un valor real y lo guarda en variable primer
-    printf ( "  \ n \ n Dame el segundo valor real " );
-    scanf ( "  % f  " , & segundo); // Permite capturar un valor real y lo guarda en variable primer
-    multiplica = cebador * segundo;
-    division = cebador / segundo;
-    printf ( "  \ n El producto es % f  " , multiplica);
-    printf ( "  \ n El cociente es % f  " , división);
+   float primer, segundo, multiplica, division;
+    printf ("\n\n Programa 3");
+    printf ("\n\n Saca el promedio de valores reales");
+    printf ("\n\n Dame el primer valor real");
+    scanf ("%f",&primer); //Permite capturar un valor real y lo guarda en variable primer
+    printf ("\n\n Dame el segundo valor real");
+    scanf ("%f",&segundo); //Permite capturar un valor real y lo guarda en variable primer
+    multiplica = primer * segundo;
+    division = primer / segundo;
+    printf ("\n El producto es %f",multiplica);
+    printf ("\n El cociente es %f",division);
 
-    return   0 ;
+    return 0;
 }
