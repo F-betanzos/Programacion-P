@@ -1,4 +1,4 @@
-# incluye  < stdio.h >
+# include <studio.h>
 
 int  main () {
     / * Flores Salinas Fernando Andrés
