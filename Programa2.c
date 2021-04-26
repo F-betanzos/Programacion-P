@@ -12,8 +12,7 @@ int   main () {
    scanf ( "  % d  " , & a); // Si vas a recibir un valor entero usa% d
                  // Para indicar la variable donde se guarda usa & variable
    printf ( "  \ n   \ n Dame el valor entero de b: " );
-   scanf ( "  % d  " , & b); // Permite capturar un valor entero
-    c = a + b;
+   scanf ( "  % d  " , & b); //   Permite capturar un valor entero c = a + b;
    printf ( "  \ n El resultado es % d  " , c);
    return   0 ;
 }
