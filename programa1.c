@@ -1,12 +1,9 @@
-#include  <stdio.h>
+#include <stdio.h>
 
-int main () {
-    /* Gonzalez Betanzos Fabiola
-    Equipo "Alfa Buena Maravilla Onda Dinamita Escuadron Lobo"
-    23 abr 21
-    Programa 1
+int main() {
+    /* Soy Fabiola
+    del Cecyt 10
     */
-
-    printf ("Hola Mundo")
+    printf("Hola mundo");
     return 0;
 }
