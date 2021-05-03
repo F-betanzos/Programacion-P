@@ -1,7 +1,12 @@
 #include <stdio.h>
 
-int main()
-{
+int main(){
+     /* Gonzalez Betanzos Fabiola
+    Esquipo "Alfa Buena Maravilla Escuadron Lobo"
+    30 abr 21
+    Programa 7.
+    */
+    
     float precioOriginal, porcentajeAumento;
     printf("Ingresa el precio original: ");
     scanf("%f", &precioOriginal);
