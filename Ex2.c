@@ -3,6 +3,7 @@ int main()
 {
     int  a, b, c;
     printf ("\n \n \nFabiola Gonzalez Betanzos \n");
+    printf ("\n \n \nPrograma 2 \n");
     printf ("Suma de números enteros \n");
     printf ("\n \nDame el valor de a: ");
     scanf  ("%d",&b);
