@@ -7,11 +7,11 @@ int main(){
     */
 
     int a, b, c;
-    printf ("\n \n \nFabiola \n");
-    printf ("Gonzalez \n");
-    printf ("\n \nBetanzos ");
+    printf ("\n \n \nFabiola Gonzalez Betanzos \n");
+    printf ("Suma de numeros enteros \n");
+    printf ("\n \nDame el valor de a: ");
     scanf  ("%d",&b);
     c == a + b;
-    printf ("\n4IV17 %d",c);
+    printf ("\nEl resultado es %d",c);
     return 0;
 	}
